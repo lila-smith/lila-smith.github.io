@@ -6,10 +6,9 @@ image: http://unsplash.it/400?random
 ---
 
 ## Quick Spiel
-Lorem ipsum dolor sit amet, tota primis copiosae id quo. Melius eligendi elaboraret pri et, eam menandri platonem te. Tollit iudicabit gloriatur per ad. Ad diceret recteque eum, eu commodo petentium qui. No aliquid delectus eam, dicta eripuit convenire te nec. Vix no veritus dignissim. Erat ferri veniam ut eos, pro ex eius error intellegat, his te graecis oporteat honestatis.
+Inquiries about my work or potential opportunities are certainly welcome.  I'm usually never far from a computer and can reply in reasonable time.  Thank you!
 
-* Phone: (123) 456-7890
-* Email: youremail@youremail.com
-* Address: 2145 Sheridan Rd., Evanston, IL, 60201
+* Phone: By request
+* Email: ABLarry91@gmail.com
+* Address: Chicago, IL
 
-Ad case nemore equidem mea. Duo te iuvaret appetere appellantur, sint scaevola usu cu. Eum ne aeque ridens prompta. At legendos vulputate eos, pro illum iuvaret cu, ludus vituperata usu no.

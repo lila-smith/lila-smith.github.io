@@ -2,17 +2,15 @@
 layout: about
 path: /about
 url: index.html
-image: http://unsplash.it/400?random
+image: 21.jpg
 ---
-
+ 
 ## Overview
-Lorem ipsum dolor sit amet, purto tota in vel, exerci discere apeirian has in. Nec noster iracundia eu, utroque facilis ad has. Alii argumentum no his, omnis iusto scripta vim in, ipsum ridens mel at. Has homero phaedrum no, ea autem affert facilis usu, has possim meliore perpetua id. Errem iisque mea ex, option ocurreret no est. Sea facer ullamcorper ne, cu dictas discere repudiandae sea.
+Austin Lawrence is a mechatronic design engineer and researcher. He is the co-founder and CTO of Future Tech Farm. Austin holds the belief that farming should be responsibly expressed as a full circle process; in which 'waste' from one process is used to create a symbiotic relationship to another beneficial application. Austin's present research focus pertains to technologies relevant to increasing yields within an autonomous controlled environment agriculture (CEA) means.
 
-His nemore audiam consequat ad, no augue choro assueverit mei. Zril offendit tincidunt ne quo. At commodo integre alienum sea, cu vocent fuisset suscipit nam. Eum ex tation omnesque adversarium, mutat autem putant te nam. Id vix facilis complectitur, vis vitae vivendo euripidis ea, fugit eirmod an vix.
+Austin is presently a graduate student of Northwestern University pursuing a Master of Science in Robotics, a Professional Engineering understudy, and a recent undergraduate of Kettering University in mechanical bioengineering. Austin has gathered experience in myoelectric prosthesis research, mechatronic design of robots, computational mathematics, control, simulations, lean design, and low volume manufacturing techniques. He is currently focusing on topics of AI, computer vision, and embedded systems.
 
-Ad case nemore equidem mea. Duo te iuvaret appetere appellantur, sint scaevola usu cu. Eum ne aeque ridens prompta. At legendos vulputate eos, pro illum iuvaret cu, ludus vituperata usu no.
-
-Mel magna discere in. Mea ea dicit homero perfecto. Eam nulla facete scribentur in. Vide volutpat laboramus est cu, usu cu impetus dignissim. Ex pro decore impetus. Ius nihil iisque deterruisset an, ex sanctus verterem his. Doming prompta insolens est ut.
+In his personal life, Austin enjoys playing with his 3D printer, beekeeping, foraging his family's blueberry farm, and recreational design. His personal life goal is to own a fabrication workshop, and have the free time to use it!
 
 ### Research interests
 * Interest 1
