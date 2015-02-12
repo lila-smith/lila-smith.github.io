@@ -2,7 +2,7 @@
 layout: project
 title: Ball Tracker
 date: September 29, 2014
-image: msr-student-template-favicon.png
+image: tracker.png
 ---
 
 ## Background

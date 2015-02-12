@@ -2,7 +2,7 @@
 layout: about
 path: /about
 url: index.html
-image: 21.jpg
+image: self.png
 ---
  
 ## Overview
@@ -13,6 +13,6 @@ Austin is presently a graduate student of Northwestern University pursuing a Mas
 In his personal life, Austin enjoys playing with his 3D printer, beekeeping, foraging his family's blueberry farm, and recreational design. His personal life goal is to own a fabrication workshop, and have the free time to use it!
 
 ### Research interests
-* Interest 1
-* Interest 2
-* Interest 3
+* Mechatronics
+* Computer vision/learning
+* Problems that impact 10^9 people

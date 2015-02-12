@@ -4,13 +4,13 @@ title: Portfolio
 ---
 
 <main id="portfolio">
-	<h1 class="page-header">Portfolio</h1>
+	<h1 class="page-header">Engineering Portfolio</h1>
 	<section>
 		<ul id="portfolio-gallery">
 			{% for project in site.projects %}
 				<li>
 					<a href="{{ site.baseurl }}{{ project.url }}">
-						<img src="{{ site.baseurl }}/{{ site.image_path }}/{{ project.image }}">
+						<img src="{{ site.baseurl }}/{{ site.image_path }}/{{ project.image }}" width="100%" height="100%">
 						<h2>{{ project.title }}</h2>
 					</a>
 				</li>

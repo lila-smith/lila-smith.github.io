@@ -2,7 +2,7 @@
 layout: project
 title: Tag Tracking
 date: September 29, 2014
-image: msr-student-template-favicon.png
+image: tags.png
 ---
 
 ## Background

@@ -2,7 +2,7 @@
 layout: project
 title: Quadrotor Navigation
 date: September 29, 2014
-image: msr-student-template-favicon.png
+image: quad.png
 ---
 
 ## Background
