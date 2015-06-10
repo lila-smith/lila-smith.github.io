@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Tag Tracking
+title: Stereo Vision
 date: September 29, 2014
-image: tags.png
+image: stereo.png
 ---
 
 ## Background
