@@ -17,17 +17,18 @@ As consumer-level robots slowly find their place in a typical household, human p
 
 ## Method
 As a quick start to the project, the [Million Song Dataset](http://labrosa.ee.columbia.edu/millionsong/) provided a foundational amount of data in the meta and analytical nature.  Thanks to the information available in this dataset, several characteristics of songs can be utilized, including:
-•	Duration: the length of a song
-•	Artist familiarity: an estimation of how familiar the artist is to the world
-•	Artist hotness: an estimation of how popular an artist is
-•	Song hotness: an estimation of how popular a song is
-•	End of fade in: an estimation of when the song finishes fading in
-•	Start of fade out: an estimation of when the song begins to fade out
-•	Loudness: Overall loudness of a song in dB
-•	Mode: whether a song is in major or minor key
-•	Key: an estimation of the song’s key
-•	Tempo: an estimation of how fast the song is
-•	Time signature: an estimation of a song’s time signature
+
+* Duration: the length of a song
+* Artist familiarity: an estimation of how familiar the artist is to the world
+* Artist hotness: an estimation of how popular an artist is
+* Song hotness: an estimation of how popular a song is
+* End of fade in: an estimation of when the song finishes fading in
+* Start of fade out: an estimation of when the song begins to fade out
+* Loudness: Overall loudness of a song in dB
+* Mode: whether a song is in major or minor key
+* Key: an estimation of the song’s key
+* Tempo: an estimation of how fast the song is
+* Time signature: an estimation of a song’s time signature
 
 Using Python [SQLite](https://www.sqlite.org/) to generate the database and [Weka](http://www.cs.waikato.ac.nz/ml/weka/) for learning purposes, a Bayes Net classifier was found to generate the best results, next to a J48 Decision Tree classifier.  Success is measured against the genre provided by the Million Song Dataset and the classification accuracy.
 
