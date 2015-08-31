@@ -8,7 +8,9 @@ By, Austin Lawrence (Ablarry91@gmail.com)
 Master of Science in Robotics, Northwestern University
 
 ## Intro
-The objective of this project is to classify music and use this information to instruct a specific dancing scheme for a robot.
+The objective of this project is to classify music and use this information to instruct a specific dancing scheme for a robot.  The repository of this project may be found [here](https://github.com/ablarry91/dancing_robot).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZPxmVsA1itM" frameborder="0" allowfullscreen></iframe>
 
 ## Motivation
 As consumer-level robots slowly find their place in a typical household, human personification is inevitable.  We argue with automated personal assistants, name our vacuums, and marvel at their literal interpretation of the world.  Despite this, machines of this category still lack the ability to facilitate an emotional response between the machine and a human.  To go beyond the status of an appliance, and possibly use robotics as a means of emotional therapy or entertainment, much development is still needed to create machine that reacts in a human-like manner.  Perhaps the most successful case of this may be the querky [Jibo](https://www.jibo.com/) robot, though even it has noticeable limitations.  Though not quite analogous to emotion, having an ability to classify the genre of an mp3 music file is a step in the direction of autonomous emotion classification.
