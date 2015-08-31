@@ -48,7 +48,7 @@ Additional musical features may help improve the quality of classification, prov
 Though this exercise proved useful in classifying musical genres with a heightened reliability, more work is to be done to improve accuracy to a meaningful level.  Going forward, it is of interest to transition this study into the area of feature extraction from mp3 files, as opposed to acquiring this information from another source in a precompiled format.  Doing so may influence the types of features available to study, and optimistically, improvement in the quality of musical genre classification.
 
 A technical writeup of this aspect of the project may be found [here](portfolio/assets/DDR_Final_Paper.pdf)
-![ar_sys](https://raw.githubusercontent.com/andrewturchina/miniproject1/master/ar_sys_pic.png)
+![ar_sys](https://github.com/ablarry91/temp/blob/master/confusion.png?raw=true)
 
 
 ## Musical Classification from Audio Fingerprinting
