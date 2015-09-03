@@ -1,10 +1,10 @@
 ---
-layout: about
+layout: construction
 path: /about
 url: index.html
 image: self.png
 ---
- 
+
 ## Overview
 Austin Lawrence is a mechatronic design engineer and researcher. He is the co-founder and CTO of Future Tech Farm. Austin holds the belief that farming should be responsibly expressed as a full circle process; in which 'waste' from one process is used to create a symbiotic relationship to another beneficial application. Austin's present research focus pertains to technologies relevant to increasing yields within an autonomous controlled environment agriculture (CEA) means.
 

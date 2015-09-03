@@ -1,5 +1,5 @@
 ---
-layout: contact
+layout: construction
 path: /contact
 url: index.html
 image: selfriver.png
