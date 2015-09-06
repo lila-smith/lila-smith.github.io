@@ -1,6 +1,7 @@
 ---
 layout: project
 title: ACE Grow Unit
+type: Precision Agriculture
 date: September 22, 2014
 image: ace.png
 ---
