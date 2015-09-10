@@ -31,6 +31,12 @@ View the site in your browser at
 localhost:4000/msr-student-template/
 ```
 
+## Pushing Updates
+Github Pages reads from the gh-pages repository, and nothing else.  Changes must be pushed to this branch via something like:
+```
+git push origin gh-pages
+```
+
 ## Adding Images
 For now, images need to be manually formatted into a square aspect ratio.  No scaling for small images is performed, so images under 500px may throw off the template for higher resolution screens.  On the to-do list.
 

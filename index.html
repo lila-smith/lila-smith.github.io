@@ -164,7 +164,7 @@ title: Portfolio
             	{% for project in site.projects %}
                 <div class="col-lg-4 col-sm-6">
                     <a href="{{ site.baseurl }}{{ project.url }}" class="portfolio-box">
-                        <img src="{{ site.image_path }}/{{ project.image }}" class="resize" alt="">
+                        <img src="{{ site.baseurl }}/{{ site.image_path }}/{{ project.image }}" class="resize" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">

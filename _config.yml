@@ -3,8 +3,7 @@ title:              Portfolio Template
 email:              ablarry91@gmail.com
 description:        "Portfolio template for students in the MSR program at Northwestern University"
 url:                "http://localhost:4000"
-# baseurl:            /main
-baseurl:
+baseurl:            /portfolio
 
 # File structure settings
 image_path:         /public/images
