@@ -22,11 +22,17 @@ In another terminal, start a local server (run in site root directory)
 ```
 $  jekyll serve
 ```
+If you're running Mac and your pages aren't rebuilding, then you may need to run
+```
+$ jekyll serve --force_polling
+```
 View the site in your browser at
 ```
 localhost:4000/msr-student-template/
 ```
 
+## Adding Images
+For now, images need to be manually formatted into a square aspect ratio.  No scaling for small images is performed, so images under 500px may throw off the template for higher resolution screens.  On the to-do list.
 
 
 ## File structure
@@ -78,7 +84,7 @@ localhost:4000/msr-student-template/
 First, if you look inside the \_site directory, you'll see that no directories or files there begin with an underscore (\_). The contents of that directory are the end result of Jekyll's processing engine. All of the files and directories in the root directory of the repository that do begin with an underscore, on the other hand, are "raw". They either include markup that will be included within pages of the final site or they contain markdown and "Front Matter" (which I'll explain later) that will be converted into markup by Jekyll's engine. One of the two commands that you need to run in order to host the site on a local server:
 ```
 jekyll build --watch
-``` 
+```
 runs that engine, processing and reprocessing the "raw" files every time you make a change to a file. The files and directories in the root directory of the repository that _don't_ begin with an underscore are ignored by Jekyll and will remain the exact same in the _site directory.
 
 ### Front Matter

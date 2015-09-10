@@ -178,7 +178,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(../img/header.jpg);
+    background-image: url(../img/header2.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -211,9 +211,9 @@ header .header-content .header-content-inner p {
     color: rgba(255,255,255,.7);
 }
 
-@media screen and (max-width:300px) {
+@media screen and (min-width:300px) {
     header {
-        height: 100%;
+        min-height: 800px;
     }
 
     header .header-content {
