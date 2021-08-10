@@ -1,14 +1,39 @@
 ---
 layout: main
 ---
-<main class="project">
-	<section id="contact-content">
-		<img id="project-image" src="{{ site.baseurl }}/{{ site.image_path }}/{{ page.image }}">
-		<h1 id="project-title">{{ page.title }}</h1>
-		<h2 id="project-date">{{ page.date }}</h2>
 
-		{{ content }}
+<!DOCTYPE html>
+<html lang="en">
 
-	</section>
+<body>
+    <section class="bg-primary">
+        <section id="contact-content" class="container">
+            <div class="row">
+                <div class="col-lg-6 text-center">
+                    <img class="img-responsive" src="{{ site.image_path }}/{{ page.image }}">
+                </div>
+                <div class="col-lg-6">
+                    <h1 id="project-title" class="text-center">{{ page.title }}</h1>
+                    <h2 id="project-date" class="text-center">{{ page.visible_date }}</h2></div>
+                    <br></br>   
+                    {{ content }}
+                </div>
+            </div> 
+        </section>
+    </section>
+	
+     <!-- jQuery -->
+     <script src="{{ site.url }}/js/jquery.js"></script>
 
-</main>
+     <!-- Bootstrap Core JavaScript -->
+     <script src="{{ site.url }}/js/bootstrap.min.js"></script>
+ 
+     <!-- Plugin JavaScript -->
+     <script src="{{ site.url }}/js/jquery.easing.min.js"></script>
+     <script src="{{ site.url }}/js/jquery.fittext.js"></script>
+     <script src="{{ site.url }}/js/wow.min.js"></script>
+ 
+     <!-- Custom Theme JavaScript -->
+     <script src="{{ site.url }}/js/creative.js"></script>
+
+</body>

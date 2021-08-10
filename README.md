@@ -42,7 +42,6 @@ For now, images need to be manually formatted into a square aspect ratio.  No sc
 |-- _includes (all the markup partials)
 |   |-- footer.html
 |   |-- head.html
-|   |-- header.html
 |-- _layouts (page markup templates)
 |   |-- about.html
 |   |-- contact.html
