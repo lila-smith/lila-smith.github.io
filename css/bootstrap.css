@@ -5,6 +5,7 @@
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
+  scroll-behavior: smooth;
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -1077,6 +1078,7 @@ th {
           box-sizing: border-box;
 }
 html {
+  scroll-behavior: smooth;
   font-size: 10px;
 
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
