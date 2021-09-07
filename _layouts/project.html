@@ -7,12 +7,18 @@ layout: main
 
 <body>
     <section class="bg-primary">
-        <section id="contact-content" class="container">
+        <section id="contact-content" class="container-fluid">
             <div class="row">
-                <div class="col-lg-6 text-center">
-                    <img class="img-responsive" src="{{ site.image_path }}/{{ page.image }}">
+                <div class="col-xs-12 col-sm-6">
+                    <img class="img-responsive center-block" src="{{ site.image_path }}/{{ page.image }}">
                 </div>
-                <div class="col-lg-6">
+                <div class="col-sm-6">
+                    <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
+                </div>
+                <div class="col-xs-12 col-sm-6 text-center">
                     <h1 id="project-title" class="text-center">{{ page.title }}</h1>
                     <br>
                     <h2 id="project-date" class="text-center">{{ page.visible_date }}</h2></div>
