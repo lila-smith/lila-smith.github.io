@@ -9,7 +9,7 @@ layout: main
     <section class="bg-primary">
         <section id="contact-content" class="container-fluid">
             <div class="row">
-                <div class="col-xs-12 col-sm-6">
+                <div class="col-xs-12 col-sm-4 col-sm-offset-1">
                     <img class="img-responsive center-block" src="{{ site.image_path }}/{{ page.image }}">
                 </div>
                 <div class="col-sm-6">
@@ -21,9 +21,10 @@ layout: main
                 <div class="col-xs-12 col-sm-6 text-center">
                     <h1 id="project-title" class="text-center">{{ page.title }}</h1>
                     <br>
-                    <h2 id="project-date" class="text-center">{{ page.visible_date }}</h2></div>
-                    <br>   
-                    {{ content }}
+                    <h2 id="project-date" class="text-center">{{ page.visible_date }}</h2>
+                    <br>  
+                    <br>
+                    <p class="text-justify"> {{ content }}</p>
                 </div>
             </div> 
         </section>

@@ -2,7 +2,7 @@
 title:              Portfolio Template
 email:              ablarry91@gmail.com
 description:        "Portfolio template for students in the MSR program at Northwestern University"
-url:                "https://ls-olin.github.io"
+url:                "https://ls-olin.github.io" #"https://12.0.0.1:4000"
 # baseurl:            /main
 baseurl:
 
