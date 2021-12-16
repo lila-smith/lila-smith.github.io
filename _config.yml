@@ -1,13 +1,15 @@
 # Site settings
-title:              Portfolio Template
-email:              ablarry91@gmail.com
-description:        "Portfolio template for students in the MSR program at Northwestern University"
+title:              Lila Smith
+email:              lsmith2@olin.edu
+description:        Lila Smith's Portfolio
 url:                "https://lila-smith.github.io" #"https://12.0.0.1:4000"
 # baseurl:            /main
 baseurl:
 
 # File structure settings
 image_path:         /public/images
+docs_path:          /public/other
+
 
 # Build settings
 markdown:           kramdown
