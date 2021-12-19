@@ -2,8 +2,8 @@
 title:              Lila Smith
 email:              lsmith2@olin.edu
 description:        Lila Smith's Portfolio
-url:                "https://lila-smith.github.io" #"https://12.0.0.1:4000"
-# baseurl:            /main
+# url:                "http://127.0.0.1:4000"
+url:                "http://lila.engineer" 
 baseurl:
 
 # File structure settings

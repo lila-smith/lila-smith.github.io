@@ -9,21 +9,21 @@ layout: main
     <section class="bg-primary">
         <section id="contact-content" class="container-fluid">
             <div class="row">
-                <div class="col-xs-12 col-sm-4 col-sm-offset-1">
+                <div class="col-xs-8 col-sm-offset-3 col-md-4 col-md-offset-4 col-xs-offset-2">
+                    <h1 id="project-title">{{ page.title }}</h1>
+                    <br>
+                    <h2 id="project-date" class="text-faded">{{ page.visible_date }}</h2>
+                    <br>
+                </div> 
+            </div>
+            <div class="row">
+                <div class="col-xs-8 col-xs-offset-2 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
                     <img class="img-responsive center-block" src="{{ site.image_path }}/{{ page.image }}">
-                </div>
-                <div class="col-sm-6">
-                    <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
-                </div>
-                <div class="col-sm-6">
-                    <div class="hidden-lg hidden-md hidden-sm">&nbsp;</div>
-                </div>
-                <div class="col-xs-12 col-sm-6 text-center">
-                    <h1 id="project-title" class="text-center">{{ page.title }}</h1>
                     <br>
-                    <h2 id="project-date" class="text-center">{{ page.visible_date }}</h2>
-                    <br>  
-                    <br>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xs-8 col-xs-offset-2 col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
                     <p class="text-justify"> {{ content }}</p>
                 </div>
             </div> 

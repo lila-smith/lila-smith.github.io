@@ -25,7 +25,7 @@ hr.light {
 }
 
 a {
-    color: #2f9982;
+    color: #004839;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -113,7 +113,7 @@ aside {
 
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: #2f9982!important;
+    color: #2f9982;
     background-color: transparent;
 }
 
