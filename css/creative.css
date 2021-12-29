@@ -64,6 +64,11 @@ p {
     background-color: #222;
 }
 
+.bg-light {
+    color: #222;
+    background-color: #E6E6E6;
+}
+
 .text-faded {
     color: rgba(255,255,255,.7);
 }
